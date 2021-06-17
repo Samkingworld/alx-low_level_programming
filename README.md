@@ -321,4 +321,4 @@ Please, remember that these blogs must be written in English to further your tec
 When done, please add all urls below (blog post, LinkedIn post, etc.)
 
 Add URLs here:
-# holbertonschool-low_level_programming
+# alx-low_level_programming
